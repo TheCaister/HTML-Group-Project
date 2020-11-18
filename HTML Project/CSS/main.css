@@ -12,36 +12,44 @@
     background-color: black;
 }
 
-.inner-header{
-    width: 1000px;
+.logo{
+    width: 10%;
     height: 100%;
+    background-color: white;
+    float: left;
+}
+
+ul.navigate{
+    overflow: hidden;
+}
+
+ul.navigate li{
+    float: left;
+    height: 100px;
+    width: 33.33%;
+}
+
+ul.navigate li a{
     display: block;
-    margin: 0 auto;
-    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 25px 0px;
+    font-family: 'Arial Black',Arial, Helvetica, sans-serif;
+    font-size: 25px;
 }
 
-.logo-container{
-    height: 100%;
+div.navigate{
     float: left;
-}
-
-.navigation{
-    height: 100%;
-}
-
-.navigation div{
-    height: 100%;
-    float: left;
-    padding: 0px 20px;
+    width: 90%;
 }
 
 body.home{
     background-image: url('/HTML Project/media/videos, gifs/botw.gif');
     backdrop-filter: brightness(20%);
     background-size: cover;
-
     height: 100vh;
 }
+
 h1.home{
     font-family: 'Arial Black',Arial, Helvetica, sans-serif;
     font-size: 100px;
@@ -53,5 +61,9 @@ h3.home{
     font-size: 40px;
     color: white;
     text-align: center;
-    padding-bottom: 10px;
 }
+
+div.space {
+    height: 30em;
+}
+
