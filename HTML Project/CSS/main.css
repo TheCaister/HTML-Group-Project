@@ -53,7 +53,7 @@ div.navigate{
 }
 
 body.home{
-    background-image: url('/HTML Project/media/videos, gifs/botw.gif');
+    background-image: url('../media/videos, gifs/botw.gif');
     backdrop-filter: brightness(20%);
     background-size: cover;
     height: 100vh;
