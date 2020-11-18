@@ -1,0 +1,12 @@
+body.home{
+    background-image: url('/HTML Project/media/videos, gifs/botw.gif');
+    backdrop-filter: grayscale(0%);
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
