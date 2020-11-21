@@ -13,21 +13,18 @@
 
 .logo{
 
-    height: 99%;
+    height: 100%;
     background-color: rgb(255, 255, 255);
     float: left;
-}
-
-div.logo{
     width: 10%;
 }
 
 .logo a img{
     height: 80%;
-    width: 80%;
+    width: 80px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 8%;
+    margin-top: 10px;
     margin-bottom: auto;
     display: block;
 }
