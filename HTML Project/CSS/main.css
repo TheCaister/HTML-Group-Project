@@ -63,12 +63,7 @@ body.home{
     height: 1500px;
 }
 
-body.updates{
-    background-image: url('../media/videos, gifs/speakerphone.gif');
-    backdrop-filter: brightness(20%);
-    background-size: cover;
-    height: 1500px;
-}
+
 
 body.donate{
     background-image: url('../media/videos, gifs/gameboy.gif');
@@ -122,8 +117,7 @@ footer p{
 }
 
 .imagesection{
-    margin-top: 100px;
-    height: 750px;
+    height: 500px;
     background-color: #4DAA57;
 }
 

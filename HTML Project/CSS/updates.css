@@ -1,9 +1,10 @@
-body.aboutus{
-    height: 6000px;
+body.updates{
+    
+    height: 1500px;
 }
 
 .intro{
-    background-image: url('../media/videos, gifs/hospital vr.gif');
+    background-image: url('../media/videos, gifs/speakerphone.gif');
     background-size: cover;
     display: block;
 }
