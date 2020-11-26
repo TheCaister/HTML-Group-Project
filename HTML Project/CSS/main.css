@@ -7,14 +7,14 @@
 
 .header{
     width: 100%;
-    height: 100px;
+    height: 99px;
     background-color: #424342;
 }
 
 .logo{
 
     height: 100%;
-    background-color: #4DAA57;
+    background-color: #e0e0e2;
     float: left;
     width: 10%;
 }
@@ -100,7 +100,7 @@ footer{
 footer img{
     height: 80%;
     width: 80px;
-    margin-top: 10px;
+    margin-top: 5px;
     padding-left: 30px;
     display: inline;
 }
@@ -150,6 +150,17 @@ footer p{
 .text{
     width: 50%;
     float: left;
+}
+
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #4DAA57;
+    border-radius: 10px;
+    height: 100%;
 }
 
 .text p{
