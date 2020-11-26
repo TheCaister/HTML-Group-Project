@@ -63,13 +63,6 @@ body.home{
     height: 1500px;
 }
 
-body.aboutus{
-    background-image: url('../media/videos, gifs/hospital\ vr.gif');
-    backdrop-filter: brightness(20%);
-    background-size: cover;
-    height: 1900px;
-}
-
 body.updates{
     background-image: url('../media/videos, gifs/speakerphone.gif');
     backdrop-filter: brightness(20%);
@@ -151,4 +144,10 @@ footer p{
     text-align: center;
     background-color: #4DAA57;
     padding-bottom: 30px;
+}
+
+.textsection{
+    margin-top: 100px;
+    height: 600px;
+    background-color: #4DAA57;
 }

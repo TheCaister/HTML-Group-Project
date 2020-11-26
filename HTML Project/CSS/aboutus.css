@@ -1,0 +1,6 @@
+body.aboutus{
+    background-image: url('../media/videos, gifs/hospital\ vr.gif');
+    backdrop-filter: brightness(20%);
+    background-size: cover;
+    height: 1900px;
+}
