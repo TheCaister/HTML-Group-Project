@@ -65,12 +65,7 @@ body.home{
 
 
 
-body.donate{
-    background-image: url('../media/videos, gifs/gameboy.gif');
-    backdrop-filter: brightness(20%);
-    background-size: cover;
-    height: 1500px;
-}
+
 
 h1.home{
     font-family: 'Arial Black',Arial, Helvetica, sans-serif;
