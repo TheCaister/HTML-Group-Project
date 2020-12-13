@@ -1,16 +1,21 @@
-body.aboutus{
-    height: 3300px;
+body.aboutus {
+  height: 3255px;
 }
 
-.intro{
-    background-image: url('../media/videos, gifs/hospital vr.gif');
-    background-size: cover;
-    display: block;
+.intro {
+  background-image: url("../media/videos, gifs/hospital vr.gif");
+  background-size: cover;
+  display: block;
 }
 
-.introtext{
-    padding-top: 150px;
-    padding-bottom: 150px;
-    height: 85%;
-    backdrop-filter: brightness(20%);
+.introtext {
+  padding-top: 150px;
+  padding-bottom: 150px;
+  height: 85%;
+  max-height: 85%;
+  backdrop-filter: brightness(20%);
+}
+
+footer {
+  position: static;
 }
